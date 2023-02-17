@@ -1,6 +1,8 @@
 * {box-sizing: border-box;}
+html {background-color: rgba(70, 0, 90, .5)}
+h2 { margin-left: 10px;}
 
-p { margin: 40px;padding: 20px;}
 
+.texto { margin: 40px;padding: 20px;}
 .primeiro {background-color: #F5F5F5;}
 .segundo { background-color: #F0CCE2; }
